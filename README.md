@@ -5,12 +5,6 @@ The projects are implemented using VHDL and may involve simulating and testing d
 
 Welcome to the Computer Systems Design repository! This repository is dedicated to coursework materials and projects related to computer systems design. Here you will find resources and code examples covering various aspects of designing and implementing computer systems.
 
-## Table of Contents
-1. [Digital Logic](#digital-logic)
-2. [Computer Architecture](#computer-architecture)
-3. [Hardware Description Languages](#hardware-description-languages)
-4. [Projects](#projects)
-
 ## Digital Logic
 This section focuses on the fundamentals of digital logic design. It includes topics such as boolean algebra, logic gates, combinational and sequential circuits, and finite state machines.
 
