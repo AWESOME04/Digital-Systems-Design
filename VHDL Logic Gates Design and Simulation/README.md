@@ -1,5 +1,7 @@
 # VDHL Logic Gates
 
+![Untitled](https://github.com/AWESOME04/Computer-Systems-Design/assets/102630199/5a04b596-9f96-4074-8f89-58d5194e89e9)
+
 This repository contains VHDL code and simulation results for the design of NAND, NOR, and Exclusive NOR gates. These logic gates are implemented using the VHDL language and simulated using ModelSim.
 The code is implemented using the concepts learned in the VHDL lab session. The simulation results are visualized using the WAVE feature provided by ModelSim
 
