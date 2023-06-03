@@ -1,4 +1,7 @@
 # Computer-Systems-Design
+
+![photo-1518770660439-4636190af475](https://github.com/AWESOME04/Computer-Systems-Design/assets/102630199/187a99c6-ee3e-426a-87da-04b935a32e6b)
+
 This GitHub repository contains coursework projects related to computer systems design. It includes various assignments and projects that cover topics such as digital logic design, computer architecture, and hardware description languages. 
 The projects are implemented using VHDL and may involve simulating and testing designs on FPGA boards or using VHDL simulators.
 
