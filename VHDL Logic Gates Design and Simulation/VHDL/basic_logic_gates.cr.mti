@@ -1,0 +1,25 @@
+{C:/Users/HP/Desktop/COMP. ENG/UNI STUFF/Level 200/Semester 2/Computer Systems Design/Assignments and LabWork/LAB 1/VHDL/nand_gate.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Users/HP/Desktop/COMP. ENG/UNI STUFF/Level 200/Semester 2/Computer Systems Design/Assignments and LabWork/LAB 1/VHDL/nand_gate.vhd}
+Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity nand_gate
+-- Compiling architecture nandLogic of nand_gate
+
+} {} {}} {C:/Users/HP/Desktop/COMP. ENG/UNI STUFF/Level 200/Semester 2/Computer Systems Design/Assignments and LabWork/LAB 1/VHDL/xnor_gate.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Users/HP/Desktop/COMP. ENG/UNI STUFF/Level 200/Semester 2/Computer Systems Design/Assignments and LabWork/LAB 1/VHDL/xnor_gate.vhd}
+Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity xor_gate
+-- Compiling architecture xorLogic of xor_gate
+
+} {} {}} {C:/Users/HP/Desktop/COMP. ENG/UNI STUFF/Level 200/Semester 2/Computer Systems Design/Assignments and LabWork/LAB 1/VHDL/nor_gate.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Users/HP/Desktop/COMP. ENG/UNI STUFF/Level 200/Semester 2/Computer Systems Design/Assignments and LabWork/LAB 1/VHDL/nor_gate.vhd}
+Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity nor_gate
+-- Compiling architecture norLogic of nor_gate
+
+} {} {}}
