@@ -23,6 +23,21 @@ The results and discussion section includes:
     Truth tables for each logic gate.
     Waveform simulation of the design for all possible input combinations using the WAVE feature in ModelSim.
     A comparison of the truth tables with the simulation results and an explanation of any similarities or differences observed.
+    
+## Simulations
+
+## NAND GATE
+
+![Implementation-of-NAND-Gate](https://github.com/AWESOME04/Computer-Systems-Design/assets/102630199/07d0cf4c-5474-4107-92e2-3f7946af6675)
+
+## NOR GATE
+
+![Implementation-of-NOR-Gates](https://github.com/AWESOME04/Computer-Systems-Design/assets/102630199/a23f4685-6072-4da5-89eb-d00e5e811b47)
+
+## XNOR GATE
+
+![Implementation-of-XNOR-gate](https://github.com/AWESOME04/Computer-Systems-Design/assets/102630199/89e0b83f-77aa-4c9d-a77f-3d6dea729228)
+
 
 ## Conclusion
 
