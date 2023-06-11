@@ -1,0 +1,49 @@
+# Reading C:/modeltech64_10.6d/tcl/vsim/pref.tcl
+# //  ModelSim SE-64 10.6d Feb 24 2018
+# //
+# //  Copyright 1991-2018 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  ModelSim SE-64 and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# OpenFile {C:/Users/HP/Desktop/COMP. ENG/UNI STUFF/Level 200/Semester 2/Computer Systems Design/Assignments and LabWork/LAB 2/VHDL/4-bit-adder.vhd}
+vsim work.adder4b
+# vsim work.adder4b 
+# Start time: 07:48:03 on Jun 10,2023
+# ** Note: (vsim-8009) Loading existing optimized design _opt
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.adder4b(arch)#1
+# ** Warning: (vsim-3473) Component instance "p0 : full_adder" is not bound.
+#    Time: 0 ns  Iteration: 0  Instance: /adder4b File: C:/Users/HP/Desktop/COMP. ENG/UNI STUFF/Level 200/Semester 2/Computer Systems Design/Assignments and LabWork/LAB 2/VHDL/4-bit-adder.vhd
+# ** Warning: (vsim-3473) Component instance "p1 : full_adder" is not bound.
+#    Time: 0 ns  Iteration: 0  Instance: /adder4b File: C:/Users/HP/Desktop/COMP. ENG/UNI STUFF/Level 200/Semester 2/Computer Systems Design/Assignments and LabWork/LAB 2/VHDL/4-bit-adder.vhd
+# ** Warning: (vsim-3473) Component instance "p2 : full_adder" is not bound.
+#    Time: 0 ns  Iteration: 0  Instance: /adder4b File: C:/Users/HP/Desktop/COMP. ENG/UNI STUFF/Level 200/Semester 2/Computer Systems Design/Assignments and LabWork/LAB 2/VHDL/4-bit-adder.vhd
+# ** Warning: (vsim-3473) Component instance "p3 : full_adder" is not bound.
+#    Time: 0 ns  Iteration: 0  Instance: /adder4b File: C:/Users/HP/Desktop/COMP. ENG/UNI STUFF/Level 200/Semester 2/Computer Systems Design/Assignments and LabWork/LAB 2/VHDL/4-bit-adder.vhd
+add wave -position insertpoint sim:/adder4b/*
+force -freeze sim:/adder4b/a(3) 1 0
+force -freeze sim:/adder4b/a(2) 0 0
+force -freeze sim:/adder4b/a(1) 0 0
+force -freeze sim:/adder4b/a(0) 0 0
+force -freeze sim:/adder4b/a(0) 0 0
+force -freeze sim:/adder4b/b(3) 1 0
+force -freeze sim:/adder4b/b(2) 0 0
+force -freeze sim:/adder4b/b(1) 0 0
+force -freeze sim:/adder4b/b(0) 0 0
+force -freeze sim:/adder4b/c(3) 1 0
+force -freeze sim:/adder4b/c(2) 0 0
+force -freeze sim:/adder4b/c(1) 0 0
+force -freeze sim:/adder4b/c(0) 0 0
+run
+# Break key hit
+# End time: 07:51:51 on Jun 10,2023, Elapsed time: 0:03:48
+# Errors: 0, Warnings: 4
