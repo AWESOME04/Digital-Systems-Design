@@ -1,0 +1,58 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/modeltech64_10.6d/examples
+T_opt
+!s110 1687423223
+Vh?cUWSc5jZ[4_FHNQ6oMM1
+04 9 10 work fulladder behavioral 1
+=1-d8c0a63daad7-649408f7-fd-4eec
+o-quiet -auto_acc_if_foreign -work work
+tCvgOpt 0
+n@_opt
+OL;O;10.6d;65
+Efulladder
+Z0 w1687423144
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Users/HP/Desktop/COMP. ENG/UNI STUFF/Level 200/Semester 2/Computer Systems Design/Assignments and LabWork/LAB 3/VHDL
+Z4 8C:/Users/HP/Desktop/COMP. ENG/UNI STUFF/Level 200/Semester 2/Computer Systems Design/Assignments and LabWork/LAB 3/VHDL/FullAdder.vhd
+Z5 FC:/Users/HP/Desktop/COMP. ENG/UNI STUFF/Level 200/Semester 2/Computer Systems Design/Assignments and LabWork/LAB 3/VHDL/FullAdder.vhd
+l0
+L4
+V;A@l^L[JDV]kUa2:Ycm^g0
+!s100 D8YW@0M[ie]IGgR=j]zKl1
+Z6 OL;C;10.6d;65
+32
+Z7 !s110 1687423209
+!i10b 1
+Z8 !s108 1687423209.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/HP/Desktop/COMP. ENG/UNI STUFF/Level 200/Semester 2/Computer Systems Design/Assignments and LabWork/LAB 3/VHDL/FullAdder.vhd|
+Z10 !s107 C:/Users/HP/Desktop/COMP. ENG/UNI STUFF/Level 200/Semester 2/Computer Systems Design/Assignments and LabWork/LAB 3/VHDL/FullAdder.vhd|
+!i113 0
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Abehavioral
+R1
+R2
+DEx4 work 9 fulladder 0 22 ;A@l^L[JDV]kUa2:Ycm^g0
+l10
+L9
+V_AV1_;RMX4L:]`RXUo;>z3
+!s100 4lc8D<[c:h2Z1^lSan8Vm2
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 0
+R11
+R12
