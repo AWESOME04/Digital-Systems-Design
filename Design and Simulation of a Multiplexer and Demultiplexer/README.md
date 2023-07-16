@@ -1,23 +1,63 @@
-# Computer-Systems-Design
+# VHDL Multiplexer and Demultiplexer Design
 
-![photo-1518770660439-4636190af475](https://github.com/AWESOME04/Computer-Systems-Design/assets/102630199/187a99c6-ee3e-426a-87da-04b935a32e6b)
-
-This GitHub repository contains coursework projects related to computer systems design. It includes various assignments and projects that cover topics such as digital logic design, computer architecture, and hardware description languages. 
-The projects are implemented using VHDL and may involve simulating and testing designs on FPGA boards or using VHDL simulators.
+![Multiplexer-and-Demultiplexer-Featured-Image](https://github.com/AWESOME04/Digital-Systems-Design/assets/102630199/735370c3-ff1e-49e8-b66a-46bfc6796849)
 
 
-Welcome to the Computer Systems Design repository! This repository is dedicated to coursework materials and projects related to computer systems design. Here you will find resources and code examples covering various aspects of designing and implementing computer systems.
+This project focuses on the design and simulation of a multiplexer and demultiplexer using VHDL (VHSIC Hardware Description Language). The VHDL code provided implements a 4-to-1 multiplexer and a 1-to-4 demultiplexer, showcasing their functionality and behavior through simulation.
 
-## Digital Logic
-This section focuses on the fundamentals of digital logic design. It includes topics such as boolean algebra, logic gates, combinational and sequential circuits, and finite state machines.
+## Table of Contents
 
-## Computer Architecture
-The computer architecture section explores the organization and structure of computer systems. It covers topics such as processor design, memory hierarchy, instruction set architecture, and input/output systems.
+- [Introduction](#introduction)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Simulation and Verification](#simulation-and-verification)
+- [Contributing](#contributing)
+- [License](#license)
 
-## Hardware Description Languages
-In this section, you will find materials related to hardware description languages (HDLs). HDLs, such as VHDL and Verilog, are used to describe and model digital systems. This section provides examples and tutorials on using HDLs for system design.
+## Introduction
 
-## Projects
-The projects section contains hands-on projects that apply the concepts learned in the coursework. These projects may involve designing and implementing specific components of a computer system, such as a CPU, memory module, or an interface circuit.
+The multiplexer and demultiplexer are fundamental components in digital circuits that enable data routing and control. The multiplexer selects one input signal from multiple sources based on control signals, while the demultiplexer distributes a single input signal to multiple outputs based on control signals. This project provides VHDL implementations of these components and demonstrates their functionality through simulation.
 
-Feel free to explore the resources and code examples in this repository. If you have any suggestions, feedback, or contributions, please feel free to contribute and help improve this repository. Happy learning and designing computer systems!
+## Features
+
+- VHDL code for a 4-to-1 multiplexer and a 1-to-4 demultiplexer
+- Simulated waveform analysis using ModelSim
+- Truth table comparison to verify functionality
+- Clear and well-commented code for easy understanding and modification
+
+## Getting Started
+
+To get started with the project, follow these steps:
+
+1. Clone the repository:
+   ```
+   git clone https://github.com//vhdl-mux-demux.git](https://github.com/AWESOME04/Digital-Systems-Design.git
+   ```
+
+2. Navigate to the project directory:
+   ```
+   cd Design and Simulation of a Multiplexer and Demultiplexer
+   ```
+
+3. Open the VHDL files in your preferred development environmen`t or simulation tool.
+
+## Simulation and Verification
+
+The simulation and verification process for the multiplexer and demultiplexer designs involve the following steps:
+
+1. Compile the VHDL code to ensure there are no syntax errors.
+
+2. Set up the simulation environment, including the input signals and simulation time.
+
+3. Run the simulation and analyze the waveform output.
+
+4. Compare the simulation results with the expected truth table values.
+
+## Contributing
+
+Contributions are welcome to enhance the project and its functionality. If you have any improvements or bug fixes, feel free to submit a pull request. Please ensure that your code follows the project's coding style and conventions.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
