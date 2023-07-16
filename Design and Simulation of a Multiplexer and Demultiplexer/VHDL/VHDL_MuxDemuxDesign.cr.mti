@@ -1,0 +1,17 @@
+{C:/Users/HP/Desktop/COMP. ENG/UNI STUFF/Level 200/Semester 2/Digital Systems Design/Assignments and LabWork/LAB 4/VHDL/multiplexer_4to1.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Users/HP/Desktop/COMP. ENG/UNI STUFF/Level 200/Semester 2/Digital Systems Design/Assignments and LabWork/LAB 4/VHDL/multiplexer_4to1.vhd}
+Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux_41
+-- Compiling architecture sim of mux_41
+
+} {} {}} {C:/Users/HP/Desktop/COMP. ENG/UNI STUFF/Level 200/Semester 2/Digital Systems Design/Assignments and LabWork/LAB 4/VHDL/demultiplexer_1to4.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Users/HP/Desktop/COMP. ENG/UNI STUFF/Level 200/Semester 2/Digital Systems Design/Assignments and LabWork/LAB 4/VHDL/demultiplexer_1to4.vhd}
+Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity demux_41
+-- Compiling architecture sim of demux_41
+
+} {} {}}

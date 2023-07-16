@@ -1,0 +1,107 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/modeltech64_10.6d/examples
+T_opt
+!s110 1689501604
+V^=HV`XC:Oa7PVSZWMW7oK3
+04 6 3 work mux_41 sim 1
+=1-842afd0e39a4-64b3bfa3-310-2f40
+Z1 o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.6d;65
+R0
+T_opt1
+!s110 1689503114
+V1;;9nY;;F3o70aaIB3a_12
+04 8 3 work demux_41 sim 1
+=1-842afd0e39a4-64b3c58a-21e-18a0
+R1
+R2
+n@_opt1
+R3
+Edemux_41
+Z4 w1689503084
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z7 dC:/Users/HP/Desktop/COMP. ENG/UNI STUFF/Level 200/Semester 2/Digital Systems Design/Assignments and LabWork/LAB 4/VHDL
+Z8 8C:/Users/HP/Desktop/COMP. ENG/UNI STUFF/Level 200/Semester 2/Digital Systems Design/Assignments and LabWork/LAB 4/VHDL/demultiplexer_1to4.vhd
+Z9 FC:/Users/HP/Desktop/COMP. ENG/UNI STUFF/Level 200/Semester 2/Digital Systems Design/Assignments and LabWork/LAB 4/VHDL/demultiplexer_1to4.vhd
+l0
+L4
+VnIY?@YWNJ@dNcUlebJY:?3
+!s100 H;>lA=nCAel6_1]3g4YEb3
+Z10 OL;C;10.6d;65
+32
+Z11 !s110 1689503096
+!i10b 1
+Z12 !s108 1689503095.000000
+Z13 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/HP/Desktop/COMP. ENG/UNI STUFF/Level 200/Semester 2/Digital Systems Design/Assignments and LabWork/LAB 4/VHDL/demultiplexer_1to4.vhd|
+Z14 !s107 C:/Users/HP/Desktop/COMP. ENG/UNI STUFF/Level 200/Semester 2/Digital Systems Design/Assignments and LabWork/LAB 4/VHDL/demultiplexer_1to4.vhd|
+!i113 0
+Z15 o-work work -2002 -explicit
+Z16 tExplicit 1 CvgOpt 0
+Asim
+R5
+R6
+DEx4 work 8 demux_41 0 22 nIY?@YWNJ@dNcUlebJY:?3
+l14
+L13
+V4B4VAK84f0DzZKB;6Hj7Y0
+!s100 @BDX0Af6laY9M4GAO]a][1
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 0
+R15
+R16
+Emux_41
+Z17 w1689501569
+R5
+R6
+R7
+Z18 8C:/Users/HP/Desktop/COMP. ENG/UNI STUFF/Level 200/Semester 2/Digital Systems Design/Assignments and LabWork/LAB 4/VHDL/multiplexer_4to1.vhd
+Z19 FC:/Users/HP/Desktop/COMP. ENG/UNI STUFF/Level 200/Semester 2/Digital Systems Design/Assignments and LabWork/LAB 4/VHDL/multiplexer_4to1.vhd
+l0
+L4
+VMIYB9bgn_6^nQ42GXiz7o3
+!s100 `iNghgiZ6hd6S:NIBnD8c0
+R10
+32
+Z20 !s110 1689501589
+!i10b 1
+Z21 !s108 1689501589.000000
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/HP/Desktop/COMP. ENG/UNI STUFF/Level 200/Semester 2/Digital Systems Design/Assignments and LabWork/LAB 4/VHDL/multiplexer_4to1.vhd|
+Z23 !s107 C:/Users/HP/Desktop/COMP. ENG/UNI STUFF/Level 200/Semester 2/Digital Systems Design/Assignments and LabWork/LAB 4/VHDL/multiplexer_4to1.vhd|
+!i113 0
+R15
+R16
+Asim
+R5
+R6
+DEx4 work 6 mux_41 0 22 MIYB9bgn_6^nQ42GXiz7o3
+l14
+L13
+V35jb`ZAPBY4fiAKP[gjee1
+!s100 7IMo2TOSWGADogf0c9TST0
+R10
+32
+R20
+!i10b 1
+R21
+R22
+R23
+!i113 0
+R15
+R16
