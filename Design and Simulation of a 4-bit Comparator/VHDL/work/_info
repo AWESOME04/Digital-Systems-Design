@@ -1,0 +1,62 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/modeltech64_10.6d/examples
+T_opt
+!s110 1689978007
+VN[KTJZa>Mla5`PfRPcnT<3
+04 4 10 work comp behavioral 1
+=1-842afd0e39a4-64bb0496-220-4428
+o-quiet -auto_acc_if_foreign -work work
+tCvgOpt 0
+n@_opt
+OL;O;10.6d;65
+Ecomp
+Z0 w1689977924
+Z1 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z2 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dC:/Users/HP/Desktop/COMP. ENG/UNI STUFF/Level 200/Semester 2/Digital Systems Design/Assignments and LabWork/LAB 6/VHDL
+Z6 8C:/Users/HP/Desktop/COMP. ENG/UNI STUFF/Level 200/Semester 2/Digital Systems Design/Assignments and LabWork/LAB 6/VHDL/comp.vhd
+Z7 FC:/Users/HP/Desktop/COMP. ENG/UNI STUFF/Level 200/Semester 2/Digital Systems Design/Assignments and LabWork/LAB 6/VHDL/comp.vhd
+l0
+L6
+VfW_e60=6kgOgV6o=>FEzO3
+!s100 SRCo;`IDgh]08_P^0JD>]1
+Z8 OL;C;10.6d;65
+32
+Z9 !s110 1689977984
+!i10b 1
+Z10 !s108 1689977953.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/HP/Desktop/COMP. ENG/UNI STUFF/Level 200/Semester 2/Digital Systems Design/Assignments and LabWork/LAB 6/VHDL/comp.vhd|
+Z12 !s107 C:/Users/HP/Desktop/COMP. ENG/UNI STUFF/Level 200/Semester 2/Digital Systems Design/Assignments and LabWork/LAB 6/VHDL/comp.vhd|
+!i113 0
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1 CvgOpt 0
+Abehavioral
+R1
+R2
+R3
+R4
+DEx4 work 4 comp 0 22 fW_e60=6kgOgV6o=>FEzO3
+l16
+L15
+Va3CB4P9J<NBf@n>ZZEgGX2
+!s100 i5n46BZT6DXnTkdh3JkY22
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 0
+R13
+R14

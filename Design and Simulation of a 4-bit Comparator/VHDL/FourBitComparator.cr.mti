@@ -1,0 +1,11 @@
+{C:/Users/HP/Desktop/COMP. ENG/UNI STUFF/Level 200/Semester 2/Digital Systems Design/Assignments and LabWork/LAB 6/VHDL/comp.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Users/HP/Desktop/COMP. ENG/UNI STUFF/Level 200/Semester 2/Digital Systems Design/Assignments and LabWork/LAB 6/VHDL/comp.vhd}
+Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity comp
+-- Compiling architecture Behavioral of comp
+
+} {} {}}
